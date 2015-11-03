@@ -1,0 +1,116 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.hiro.spider</groupId>
+  <artifactId>hiro-spider-getcookie</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  	<dependency>
+		<groupId>com.hiro.spider</groupId>
+		<artifactId>hiro-spider-dependence</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+	</dependency>
+	
+	<dependency>
+		<groupId>com.hiro.spider</groupId>
+		<artifactId>hiro-spider-database</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+	</dependency>
+  </dependencies>
+  <build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifest>
+							<addClasspath>true</addClasspath>
+							<classpathPrefix>lib/</classpathPrefix>
+							<mainClass>com.hiro.spider.Main</mainClass>
+						</manifest>
+					</archive>
+					<!-- 配置文件放到jar外面，方便修改，见assembly.xml，会把这里exclude后的文件放到最终zip包中 -->
+					<includes>
+						<include>**/*.class</include>
+					</includes>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<configuration>
+					<!-- 设置生成目录的linux访问权限 -->
+					<archiverConfig>
+						<fileMode>420</fileMode> <!-- 420(dec) = 644(oct) -->
+						<directoryMode>493</directoryMode> <!-- 493(dec) = 755(oct) -->
+						<defaultDirectoryMode>493</defaultDirectoryMode>
+					</archiverConfig>
+					<descriptors>
+						<descriptor>src/main/assembly/assembly.xml</descriptor>
+					</descriptors>
+				</configuration>
+				<executions>
+					<execution>
+						<id>make-assembly</id>
+						<phase>package</phase>
+						<goals>
+							<goal>single</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+	<profiles>
+		<profile>
+			<id>dev</id>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+			<build>
+				<resources>
+					<resource>
+						<directory>src/main/resources</directory>
+						<filtering>true</filtering>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+		<profile>
+			<id>test</id>
+			<build>
+				<resources>
+					<resource>
+						<directory>src/main/resources</directory>
+						<excludes>
+							<!-- 产品包不需要test配置，在调试环境优先会加载logback-test.xml -->
+							<exclude>logback-test.xml</exclude>
+							<!-- 产品包运行在linux环境，不需要bat脚本 -->
+							<exclude>start.bat</exclude>
+						</excludes>
+						<filtering>true</filtering>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+		<profile>
+			<id>product</id>
+			<build>
+				<resources>
+					<resource>
+						<directory>src/main/resources</directory>
+						<excludes>
+							<!-- 产品包不需要test配置，在调试环境优先会加载logback-test.xml -->
+							<exclude>logback-test.xml</exclude>
+							<!-- 产品包运行在linux环境，不需要bat脚本 -->
+							<exclude>start.bat</exclude>
+						</excludes>
+						<filtering>true</filtering>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+	</profiles>
+  
+</project>

@@ -1,0 +1,1163 @@
+
+574 [15/10/31 00:03:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Sat Oct 31 00:03:35 CST 2015]; root of context hierarchy
+663 [15/10/31 00:03:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1249[15/10/31 00:03:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1250[15/10/31 00:03:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1261[15/10/31 00:03:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1820[15/10/31 00:03:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1832[15/10/31 00:03:37]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1836[15/10/31 00:03:37]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1838[15/10/31 00:03:37]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3350[15/10/31 00:03:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3523[15/10/31 00:03:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3529[15/10/31 00:03:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3592[15/10/31 00:03:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4536[15/10/31 00:03:39]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+7073[15/10/31 00:03:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+65098[15/10/31 00:04:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://mp.weixin.qq.com: The target server failed to respond
+65099[15/10/31 00:04:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - Retrying request to {}->http://mp.weixin.qq.com
+65246[15/10/31 00:04:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://mp.weixin.qq.com: The target server failed to respond
+65246[15/10/31 00:04:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - Retrying request to {}->http://mp.weixin.qq.com
+65373[15/10/31 00:04:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://mp.weixin.qq.com: The target server failed to respond
+65374[15/10/31 00:04:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - Retrying request to {}->http://mp.weixin.qq.com
+556 [15/10/31 00:05:28]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Sat Oct 31 00:05:28 CST 2015]; root of context hierarchy
+611 [15/10/31 00:05:28]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1101[15/10/31 00:05:28]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1102[15/10/31 00:05:28]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1112[15/10/31 00:05:28]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1573[15/10/31 00:05:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1585[15/10/31 00:05:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1587[15/10/31 00:05:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1589[15/10/31 00:05:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3081[15/10/31 00:05:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3234[15/10/31 00:05:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3241[15/10/31 00:05:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3300[15/10/31 00:05:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4182[15/10/31 00:05:31]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+5661[15/10/31 00:05:33]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+588 [15/10/31 00:08:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Sat Oct 31 00:08:58 CST 2015]; root of context hierarchy
+648 [15/10/31 00:08:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1181[15/10/31 00:08:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1182[15/10/31 00:08:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1195[15/10/31 00:08:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1846[15/10/31 00:08:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1860[15/10/31 00:08:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1863[15/10/31 00:08:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1868[15/10/31 00:08:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+4056[15/10/31 00:09:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+4224[15/10/31 00:09:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+4232[15/10/31 00:09:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+4292[15/10/31 00:09:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+5664[15/10/31 00:09:03]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+7352[15/10/31 00:09:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+21554[15/10/31 00:09:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://mp.weixin.qq.com: The target server failed to respond
+21555[15/10/31 00:09:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - Retrying request to {}->http://mp.weixin.qq.com
+21701[15/10/31 00:09:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://mp.weixin.qq.com: The target server failed to respond
+21702[15/10/31 00:09:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - Retrying request to {}->http://mp.weixin.qq.com
+21847[15/10/31 00:09:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://mp.weixin.qq.com: The target server failed to respond
+21848[15/10/31 00:09:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - Retrying request to {}->http://mp.weixin.qq.com
+585 [15/10/31 00:12:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Sat Oct 31 00:12:22 CST 2015]; root of context hierarchy
+641 [15/10/31 00:12:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1177[15/10/31 00:12:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1179[15/10/31 00:12:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1190[15/10/31 00:12:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1687[15/10/31 00:12:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1700[15/10/31 00:12:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1702[15/10/31 00:12:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1704[15/10/31 00:12:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+5558[15/10/31 00:12:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+5724[15/10/31 00:12:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+5730[15/10/31 00:12:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+5791[15/10/31 00:12:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+6788[15/10/31 00:12:28]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+9462[15/10/31 00:12:31]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+562 [15/10/31 00:15:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Sat Oct 31 00:15:09 CST 2015]; root of context hierarchy
+626 [15/10/31 00:15:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1317[15/10/31 00:15:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1318[15/10/31 00:15:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1328[15/10/31 00:15:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1911[15/10/31 00:15:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1923[15/10/31 00:15:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1925[15/10/31 00:15:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1927[15/10/31 00:15:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3752[15/10/31 00:15:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3908[15/10/31 00:15:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3913[15/10/31 00:15:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3973[15/10/31 00:15:13]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4893[15/10/31 00:15:13]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+7024[15/10/31 00:15:16]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+543 [15/10/31 00:26:15]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Sat Oct 31 00:26:15 CST 2015]; root of context hierarchy
+608 [15/10/31 00:26:15]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1164[15/10/31 00:26:16]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1165[15/10/31 00:26:16]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1176[15/10/31 00:26:16]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1748[15/10/31 00:26:17]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1768[15/10/31 00:26:17]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1771[15/10/31 00:26:17]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1773[15/10/31 00:26:17]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3159[15/10/31 00:26:18]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3322[15/10/31 00:26:18]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3328[15/10/31 00:26:18]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3384[15/10/31 00:26:18]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4451[15/10/31 00:26:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6195[15/10/31 00:26:21]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+7050[15/10/31 00:26:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：中医养生
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+7619[15/10/31 00:26:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：单反入门知识摄影技巧数码拍客控
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+8219[15/10/31 00:26:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：第一现场
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+8815[15/10/31 00:26:24]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：中医养生秘诀
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+564 [15/10/31 00:27:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Sat Oct 31 00:27:19 CST 2015]; root of context hierarchy
+627 [15/10/31 00:27:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1202[15/10/31 00:27:20]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1202[15/10/31 00:27:20]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1212[15/10/31 00:27:20]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1776[15/10/31 00:27:20]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1788[15/10/31 00:27:20]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1791[15/10/31 00:27:20]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1793[15/10/31 00:27:20]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3689[15/10/31 00:27:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3844[15/10/31 00:27:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3850[15/10/31 00:27:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3912[15/10/31 00:27:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4809[15/10/31 00:27:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6395[15/10/31 00:27:25]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+786 [15/10/31 00:29:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Sat Oct 31 00:29:58 CST 2015]; root of context hierarchy
+856 [15/10/31 00:29:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1351[15/10/31 00:29:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1351[15/10/31 00:29:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1359[15/10/31 00:29:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1895[15/10/31 00:29:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1905[15/10/31 00:29:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1907[15/10/31 00:29:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1909[15/10/31 00:29:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3630[15/10/31 00:30:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3785[15/10/31 00:30:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3792[15/10/31 00:30:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3847[15/10/31 00:30:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4808[15/10/31 00:30:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+7769[15/10/31 00:30:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+711 [15/10/31 00:30:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Sat Oct 31 00:30:29 CST 2015]; root of context hierarchy
+765 [15/10/31 00:30:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1270[15/10/31 00:30:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1271[15/10/31 00:30:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1283[15/10/31 00:30:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1784[15/10/31 00:30:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1794[15/10/31 00:30:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1797[15/10/31 00:30:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1800[15/10/31 00:30:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3399[15/10/31 00:30:32]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3548[15/10/31 00:30:32]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3556[15/10/31 00:30:32]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3615[15/10/31 00:30:32]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4545[15/10/31 00:30:33]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6808[15/10/31 00:30:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+20111[15/10/31 00:30:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 微信号：MTA5Mzc3MDQyMA==
+24776[15/10/31 00:30:53]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:交通91.8;account:hzfm918;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgb9Y6E3DKqF-TWaJT9_A62tgjIp-WvLvoDtaiJ4Kn5stSicc0b7zqg6Y1xTHnSHyeipwbupn0uMdiVYZWI8TyihmzCq35ey4Cq_l0if0q47o247ljhkIdh86DkRaCbAbNadVukvnxy6NjjaLT7eynqJ&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whHQXaUIGtOdtH-NpYefkSDUW-zPEc5g3ww6CWMSUmPo2Q3JxMQ33744yEySxmqIQJY1-RJw6dicQF_4dsVne4bMfVWzJXryBtYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+468 [15/10/31 00:32:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Sat Oct 31 00:32:40 CST 2015]; root of context hierarchy
+520 [15/10/31 00:32:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+999 [15/10/31 00:32:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+999 [15/10/31 00:32:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1008[15/10/31 00:32:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1557[15/10/31 00:32:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1572[15/10/31 00:32:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1575[15/10/31 00:32:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1578[15/10/31 00:32:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+24235[15/10/31 00:33:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+24384[15/10/31 00:33:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+24389[15/10/31 00:33:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+24448[15/10/31 00:33:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+25243[15/10/31 00:33:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+27382[15/10/31 00:33:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+28153[15/10/31 00:33:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 微信号：MTA5Mzc3MDQyMA==
+28157[15/10/31 00:33:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:交通91.8;account:hzfm918;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgb9Y6E3DKqF-TWaJT9_A62tgjIp-WvLvoDtaiJ4Kn5stSicc0b7zqg6Y1xTHnSHyeipwbupn0uMdiVYZWI8TyihmzCq35ey4Cq_l0if0q47o247ljhkIdh86DkRaCbAbNadVukvnxy6NjjaLT7eynqJ&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whHQXaUIGtOdtH-NpYefkSDUW-zPEc5g3ww6CWMSUmPo2Q3JxMQ33744yEySxmqIQJY1-RJw6dicQF_4dsVne4bMfVWzJXryBtYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+28157[15/10/31 00:33:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：中医养生
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+28641[15/10/31 00:33:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：单反入门知识摄影技巧数码拍客控
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+29235[15/10/31 00:33:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 微信号：MjM5MDEzNTM1Mg==
+29236[15/10/31 00:33:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:单反入门知识摄影技巧数码拍客控;account:paikekong;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgaIKOnmLvsdo4ySKwNj3ylDJ8EabfnCmZrtaiJ4Kn5stSicc0b7zqg6Y1xTHnSHyeipwbupn0uMdiVYZWI8TyihmzCq35ey4Cq_l0if0q47o247ljhkIdh8amjpubna98CCAXF2v63DyUoBUfiNY6QeDv9rcRXPQGoojVIbiZZB9aS2b2MQ9thQfst1cmX-btA.&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wjmpJwkJaXH04saWlQBVcvAFJmAPOq06Mz9XSqynMalwGQ3JxMQ3374P1S60wdQKQCN8ld6ciscwzQzzPlJiqxqBMHj8CypAFhYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+29236[15/10/31 00:33:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：第一现场
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+29897[15/10/31 00:33:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 微信号：MjM5NDgzMTkzMQ==
+29897[15/10/31 00:33:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:第一现场;account:club591hx;url:http://weixin.sogou.com/websearch/art.jsp?sg=HIL9GMq1R0-rLbkre0CkM9CvwzsJ2WE_6P7hf4ANY1ftaiJ4Kn5stSicc0b7zqg6Y1xTHnSHyeipwbupn0uMdiVYZWI8TyihmzCq35ey4Cq_l0if0q47o247ljhkIdh8_9Guj52DknuORQHgvKUBQwWywtUVhjeG&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiMedyjkPhbm0RdBlRODPMfFJmAPOq06Mzso1veKu7sQWQ3JxMQ3374X9qsEIe2qST1ivx7bfM3eKMmDP37d3Osk_ONOCFRGyJYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+29897[15/10/31 00:33:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：中医养生秘诀
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+30480[15/10/31 00:33:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 微信号：MzA4OTE3ODAwNw==
+30481[15/10/31 00:33:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:中医养生秘诀;account:vip178vip;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgYlWXuyCx57MJz0hUTpocCUGPnNEkeSZNXtaiJ4Kn5stSicc0b7zqg6Y1xTHnSHyeipwbupn0uMdiVYZWI8TyihmzCq35ey4Cq_l0if0q47o247ljhkIdh8NvIFKTI4k6W-rOkdbRz4EhbmrHQe_kyhONotPt7Keok.&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiCBaDgBvmIQHqo3ZYNb1TuFJmAPOq06Myey8tlqHqRUWQ3JxMQ3374pjYsc4tM4MphKy3S0y1m9UPTk8HmgI6_k1u_xl1iRPZYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+30481[15/10/31 00:33:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：Before-After
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+31030[15/10/31 00:33:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 微信号：MjM5NDIwMDE5Mw==
+31031[15/10/31 00:33:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:Before-After;account:ibababa;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgZe_bA1YaLuPmepaT2zKD0aO06TClpzZ3ztaiJ4Kn5stSicc0b7zqg6Y1xTHnSHyeipwbupn0uMdiVYZWI8TyihmzCq35ey4Cq_l0if0q47o247ljhkIdh8eCykJ0HLWovW6rX0-gwbMwWywtUVhjeG&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wj6AKKRV-8gDalAiuoLL5SxFJmAPOq06MzqViPe84qH52Q3JxMQ3374yfYiMgGZh8OL-ZLby3SUcxeXKG0Cw4GDFurtsP6rLi9Yy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+31031[15/10/31 00:33:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：房地产战略家
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+31703[15/10/31 00:33:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 微信号：MjM5MjYxODYyMA==
+31703[15/10/31 00:33:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:房地产战略家;account:ZL-1314CN;url:http://weixin.sogou.com/websearch/art.jsp?sg=MZBLgxp1jtVxiXsAbHcPIQ9WEjpHEKWjlUCqA_dbNIbtaiJ4Kn5stSicc0b7zqg6Y1xTHnSHyeipwbupn0uMdiVYZWI8TyihmzCq35ey4Cq_l0if0q47o247ljhkIdh8mB4kCyMDDOuLWpVYqkXjwHMx7U50Ml_lONotPt7Keok.&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wgjO4PHi95AVCs8-hs7mDyMFJmAPOq06MwabASdWDS7zWQ3JxMQ3374xHSlhHHUfxxb1kUSI-NPmaHoory1RkrYbVanYQ59TBBYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+31704[15/10/31 00:33:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：读者
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+32386[15/10/31 00:33:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 微信号：MjM5NDA2NjY4MA==
+32386[15/10/31 00:33:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:读者;account:duzheweixin;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgZ9Y4PjQXiDHhHLkmFJ1OHMVLt0XPq3O4ztaiJ4Kn5stSicc0b7zqg6Y1xTHnSHyeipwbupn0uMdiVYZWI8TyihmzCq35ey4Cq_l0if0q47o247ljhkIdh8ykGWuh_RlYg_ZZJ1UEd5hg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wj9tBAI1vPc2zsGMVWoGD3XFJmAPOq06My6LAN6VdqKjGQ3JxMQ3374tk09nzlaH4HJzMNpRskGU7xfMpAmiSlQdJV_tZ7iBGxYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+32387[15/10/31 00:33:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：NBA体育资讯
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+32949[15/10/31 00:33:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 微信号：MjM5MjczMDIyMw==
+32950[15/10/31 00:33:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:NBA体育资讯;account:newnbanews;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkga3G7yLk67Ocgkx1SsJB1yJTIy6duFKVWvtaiJ4Kn5stSicc0b7zqg6Y1xTHnSHyeipwbupn0uMdiVYZWI8TyihmzCq35ey4Cq_l0if0q47o247ljhkIdh8joGy_st96noykHkxOTUayyTFlkTNgB5Iy6rGmVCuxuQ.&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiZwEXxYbdrhEABXTgKj1JeFJmAPOq06Mw8g-Bck6DGWGQ3JxMQ3374K3HTzauToc4iolc80lBkiBXKg1WbrT7Cg9Sojd9MwGtYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+32950[15/10/31 00:33:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：南京热门美食
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+489 [15/10/31 00:34:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Sat Oct 31 00:34:01 CST 2015]; root of context hierarchy
+547 [15/10/31 00:34:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1177[15/10/31 00:34:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1177[15/10/31 00:34:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1191[15/10/31 00:34:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1699[15/10/31 00:34:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1714[15/10/31 00:34:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1716[15/10/31 00:34:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1718[15/10/31 00:34:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3437[15/10/31 00:34:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3596[15/10/31 00:34:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3600[15/10/31 00:34:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3649[15/10/31 00:34:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4473[15/10/31 00:34:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6100[15/10/31 00:34:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+6822[15/10/31 00:34:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 微信号：MTA5Mzc3MDQyMA==
+6824[15/10/31 00:34:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:交通91.8;account:hzfm918;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgb9Y6E3DKqF-TWaJT9_A62tgjIp-WvLvoDtaiJ4Kn5stSicc0b7zqg6Y1xTHnSHyeipwbupn0uMdiVYZWI8TyihmzCq35ey4Cq_l0if0q47o247ljhkIdh86DkRaCbAbNadVukvnxy6NjjaLT7eynqJ&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whHQXaUIGtOdtH-NpYefkSDUW-zPEc5g3ww6CWMSUmPo2Q3JxMQ33744yEySxmqIQJY1-RJw6dicQF_4dsVne4bMfVWzJXryBtYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+7180[15/10/31 00:34:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    584057316 nanoseconds spent acquiring 1 JDBC connections;
+    41482 nanoseconds spent releasing 1 JDBC connections;
+    597665693 nanoseconds spent preparing 2 JDBC statements;
+    551753617 nanoseconds spent executing 2 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    246220929 nanoseconds spent executing 1 flushes (flushing a total of 1132 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+615 [15/10/31 00:50:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Sat Oct 31 00:50:22 CST 2015]; root of context hierarchy
+677 [15/10/31 00:50:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1256[15/10/31 00:50:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1257[15/10/31 00:50:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1266[15/10/31 00:50:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1802[15/10/31 00:50:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1811[15/10/31 00:50:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1814[15/10/31 00:50:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1816[15/10/31 00:50:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+543 [15/10/31 00:50:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Sat Oct 31 00:50:38 CST 2015]; root of context hierarchy
+598 [15/10/31 00:50:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1105[15/10/31 00:50:39]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1106[15/10/31 00:50:39]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1117[15/10/31 00:50:39]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1570[15/10/31 00:50:39]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1578[15/10/31 00:50:39]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1581[15/10/31 00:50:39]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1583[15/10/31 00:50:39]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3233[15/10/31 00:50:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3393[15/10/31 00:50:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3400[15/10/31 00:50:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3460[15/10/31 00:50:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4524[15/10/31 00:50:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6646[15/10/31 00:50:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：交通91.8
+;cookie:ABTEST=0|1446222441|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339A69;1446222444241110;SNUID=8E66FCC5B5B395E15350B97BB6392690
+18423[15/10/31 00:50:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MTA5Mzc3MDQyMA==
+26952[15/10/31 00:51:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt1mY-3Lon2m_LiB3CY41z04
+38825[15/10/31 00:51:16]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:交通91.8;account:hzfm918;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgb9Y6E3DKqF-TWaJT9_A62tgjIp-WvLvoBqahsvVX2sEZI56z989qhMcrY-5FaaIKNIVE6BecECpdFD-PXVMj2cnVbpL58cujY42i0-3sp6iQ..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whHQXaUIGtOdtH-NpYefkSDUW-zPEc5g3ww6CWMSUmPo2Q3JxMQ33744yEySxmqIQJY1-RJw6dicQF_4dsVne4bMfVWzJXryBtYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+57026[15/10/31 00:51:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：中医养生
+;cookie:ABTEST=7|1446223162|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339D3A;1446223165330510;SNUID=32D943790A0C295F1BD6E2BB0ABD4B49
+57543[15/10/31 00:51:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：单反入门知识摄影技巧数码拍客控
+;cookie:ABTEST=8|1446222561|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339AE1;1446222564429341;SNUID=00E8714B3A3E186ED535D70E3BF2F610
+627 [15/10/31 00:53:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Sat Oct 31 00:53:44 CST 2015]; root of context hierarchy
+681 [15/10/31 00:53:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1159[15/10/31 00:53:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1160[15/10/31 00:53:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1170[15/10/31 00:53:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1615[15/10/31 00:53:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1622[15/10/31 00:53:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1624[15/10/31 00:53:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1627[15/10/31 00:53:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+4614[15/10/31 00:53:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+4852[15/10/31 00:53:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+4860[15/10/31 00:53:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+4940[15/10/31 00:53:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+6076[15/10/31 00:53:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+9087[15/10/31 00:53:52]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：交通91.8
+;cookie:ABTEST=0|1446222922|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339C4A;1446222924969515;SNUID=33DB4379080D2A5C0A85461D09C33381
+9855[15/10/31 00:53:53]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MTA5Mzc3MDQyMA==
+9858[15/10/31 00:53:53]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt1mY-3Lon2m_LiB3CY41z04
+9858[15/10/31 00:53:53]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:交通91.8;account:hzfm918;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgb9Y6E3DKqF-TWaJT9_A62tgjIp-WvLvoBw7uN_6i1lvZRXO9ZXhCGmsVPHOTMpZLW5ylF09OJ7C2pGCEv49krLnVbpL58cujY42i0-3sp6iQ..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whHQXaUIGtOdtH-NpYefkSDUW-zPEc5g3ww6CWMSUmPo2Q3JxMQ33744yEySxmqIQJY1-RJw6dicQF_4dsVne4bMfVWzJXryBtYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+39922[15/10/31 00:54:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：中医养生
+;cookie:ABTEST=0|1446222681|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339B59;1446222684603090;SNUID=BF57CEF48480A7D070BC217885B1044D
+70545[15/10/31 00:54:54]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：单反入门知识摄影技巧数码拍客控
+;cookie:ABTEST=4|1446222321|v1;IPLOC=CN4406;SUID=3BD34A706B20900A00000000563399F1;1446222324057177;SNUID=B05FC1FC8C89AFDF5337C29A8CDB5EFE
+71314[15/10/31 00:54:55]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5MDEzNTM1Mg==
+71315[15/10/31 00:54:55]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt2_b-33amEUaz68RGPMB6Fo
+71315[15/10/31 00:54:55]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:单反入门知识摄影技巧数码拍客控;account:paikekong;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgaIKOnmLvsdo4ySKwNj3ylDJ8EabfnCmZrapyGOvO_mtuZl4wy527r_2mgcv4feuH_O7YG26xYe3QMWlxkeSfjEggFxdr-tw8lKAVH4jWOkHg7_a3EVz0BqKI1SG4mWQfWktm9jEPbYUH7LdXJl_m7Q&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wjmpJwkJaXH04saWlQBVcvAFJmAPOq06Mz9XSqynMalwGQ3JxMQ3374P1S60wdQKQCN8ld6ciscwzQzzPlJiqxqBMHj8CypAFhYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+101465[15/10/31 00:55:25]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：第一现场
+;cookie:ABTEST=8|1446222561|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339AE1;1446222564429341;SNUID=00E8714B3A3E186ED535D70E3BF2F610
+102418[15/10/31 00:55:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5NDgzMTkzMQ==
+102419[15/10/31 00:55:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt5VXkCRnWempRDrIMvD2uAI
+102419[15/10/31 00:55:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:第一现场;account:club591hx;url:http://weixin.sogou.com/websearch/art.jsp?sg=HIL9GMq1R0-rLbkre0CkM9CvwzsJ2WE_6P7hf4ANY1dFSCEPd16w3Dl2Gq9Piewa3uviQPfzaDzzPQyaVyDrLDGD9xMk3w6HjkUB4LylAUMFssLVFYY3hg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiMedyjkPhbm0RdBlRODPMfFJmAPOq06Mzso1veKu7sQWQ3JxMQ3374X9qsEIe2qST1ivx7bfM3eKMmDP37d3Osk_ONOCFRGyJYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+132490[15/10/31 00:55:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：中医养生秘诀
+;cookie:ABTEST=0|1446222922|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339C4A;1446222924969515;SNUID=33DB4379080D2A5C0A85461D09C33381
+132973[15/10/31 00:55:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MzA4OTE3ODAwNw==
+132973[15/10/31 00:55:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt8UkWD3m7Ywyk-e5U3mEXIQ
+132973[15/10/31 00:55:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:中医养生秘诀;account:vip178vip;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgYlWXuyCx57MJz0hUTpocCUGPnNEkeSZNVw7uN_6i1lvZRXO9ZXhCGmsVPHOTMpZLW5ylF09OJ7C4govxh8R-1lvqzpHW0c-BIW5qx0Hv5MoTjaLT7eynqJ&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiCBaDgBvmIQHqo3ZYNb1TuFJmAPOq06Myey8tlqHqRUWQ3JxMQ3374pjYsc4tM4MphKy3S0y1m9UPTk8HmgI6_k1u_xl1iRPZYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+163031[15/10/31 00:56:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：Before-After
+;cookie:ABTEST=4|1446222801|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339BD1;1446222804781760;SNUID=B05FC6FB8B89A8DF70E9F91D8C9F64FA
+163494[15/10/31 00:56:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5NDIwMDE5Mw==
+163494[15/10/31 00:56:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt19ajFA0f2Bcueu0g5CdmHg
+163494[15/10/31 00:56:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:Before-After;account:ibababa;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgZe_bA1YaLuPmepaT2zKD0aO06TClpzZ3wMnKfmPcoknO1h5eI_9IclvcbFkQ4mZXti-qFzpAEl73KAmuZtxtly1uq19PoMGzMFssLVFYY3hg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wj6AKKRV-8gDalAiuoLL5SxFJmAPOq06MzqViPe84qH52Q3JxMQ3374yfYiMgGZh8OL-ZLby3SUcxeXKG0Cw4GDFurtsP6rLi9Yy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+193518[15/10/31 00:56:57]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：房地产战略家
+;cookie:ABTEST=5|1446222080|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339900;1446222083635496;SNUID=ED059DA6D7D2F48207B10750D7542EAF
+194060[15/10/31 00:56:57]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5MjYxODYyMA==
+194060[15/10/31 00:56:57]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFtw7D3HRRhRv0LqYjYHyNNaU
+194060[15/10/31 00:56:57]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:房地产战略家;account:ZL-1314CN;url:http://weixin.sogou.com/websearch/art.jsp?sg=MZBLgxp1jtVxiXsAbHcPIQ9WEjpHEKWjlUCqA_dbNIYkG0nnHm9dj-CorLdgn5KdzTYPzv5t2-4G0Svf9oHBwr3jvPPlO6qPi1qVWKpF48BzMe1OdDJf5TjaLT7eynqJ&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wgjO4PHi95AVCs8-hs7mDyMFJmAPOq06MwabASdWDS7zWQ3JxMQ3374xHSlhHHUfxxb1kUSI-NPmaHoory1RkrYbVanYQ59TBBYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+224128[15/10/31 00:57:28]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：读者
+;cookie:ABTEST=8|1446222561|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339AE1;1446222564429341;SNUID=00E8714B3A3E186ED535D70E3BF2F610
+224778[15/10/31 00:57:28]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5NDA2NjY4MA==
+224778[15/10/31 00:57:28]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt3WiF0fQzCpn7wJrI_C6AYI
+224778[15/10/31 00:57:28]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:读者;account:duzheweixin;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgZ9Y4PjQXiDHhHLkmFJ1OHMVLt0XPq3O4xFSCEPd16w3Dl2Gq9Piewa3uviQPfzaDzzPQyaVyDrLG5ek4hHMBcAP2WSdVBHeYY.&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wj9tBAI1vPc2zsGMVWoGD3XFJmAPOq06My6LAN6VdqKjGQ3JxMQ3374tk09nzlaH4HJzMNpRskGU7xfMpAmiSlQdJV_tZ7iBGxYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+254820[15/10/31 00:57:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：NBA体育资讯
+;cookie:ABTEST=0|1446223042|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339CC2;1446223045154486;SNUID=3BD3B58F0005DC550AB6334B00F7CD47
+255346[15/10/31 00:57:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：南京热门美食
+;cookie:ABTEST=0|1446222201|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339979;1446222203893592;SNUID=967FE6DCACA88FF8753DD6F8AD9984DE
+255900[15/10/31 00:57:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MzA3ODIwMTEwOA==
+255900[15/10/31 00:57:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFtwBLGBsefxC4vgQXBFBei5Y
+255901[15/10/31 00:57:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:南京热门美食;account:njfood025;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgZHpYEIZ6gH-VnWtNLE34jOJaOCS-kBeHTQoxMgy8mlIcOm70_t00_BwqW8QHaixZRNQLslVKTdzc4_kgglcyw7kiQ5Gl1-r14TN5XodWZgZTjaLT7eynqJ&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiMmlTHWM3z_ImZPaGZZEuoFJmAPOq06Mw_fCwOUBvc3mQ3JxMQ3374xtJYlHgEqArA1e8rg1JYvuzKgdcOq31_qY1bHpQhn4BYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+285994[15/10/31 00:58:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：雷锋网
+;cookie:ABTEST=4|1446222801|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339BD1;1446222804781760;SNUID=B05FC6FB8B89A8DF70E9F91D8C9F64FA
+286585[15/10/31 00:58:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MTM2ODM0ODYyMQ==
+286585[15/10/31 00:58:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFtxYqTCm7k4FHeT1WKMJGJXc
+286585[15/10/31 00:58:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:雷锋网;account:leiphone-sz;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgbqopChnkE-rvm0IqRqLOWjCxPf-UtbR9wMnKfmPcoknO1h5eI_9IclvcbFkQ4mZXti-qFzpAEl76lv0Z46s-rXYOOOvJEyU9ZLH1MaZLqqSg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wjnlUAWts367DK2zBSQ7on_FJmAPOq06Mz0g2yTMED6wGQ3JxMQ3374l2-uSlrx5i3CCSG4YpWMADz3vXMK2dpgJBRg3XUQsvpYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+316658[15/10/31 00:59:00]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：美食生活
+;cookie:ABTEST=0|1446222201|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339979;1446222203893592;SNUID=967FE6DCACA88FF8753DD6F8AD9984DE
+317509[15/10/31 00:59:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5MTIwNzMyNA==
+317510[15/10/31 00:59:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt5w7Kmd1gsj9mBYQn4uayq8
+317510[15/10/31 00:59:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:美食生活;account:xuezuomeishi;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgZ-SaCWHyqyaf5Lh8RuXSV7vu87PVFv7GXQoxMgy8mlIcOm70_t00_BwqW8QHaixZRNQLslVKTdzYlK7SxvHqxu3WHETpGsOCUFssLVFYY3hg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wh9vqA-_Fd18_5_PS8uhVLEFJmAPOq06Mzm1mwwC2U4RWQ3JxMQ3374sCWcoEiqsKap5vouResDtaaqyRe40boPl-iU2G8VfyZYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+347710[15/10/31 00:59:31]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：承德新鲜事儿
+;cookie:ABTEST=4|1446222801|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339BD1;1446222804781760;SNUID=B05FC6FB8B89A8DF70E9F91D8C9F64FA
+348891[15/10/31 00:59:32]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5NjA5MzE2MA==
+348891[15/10/31 00:59:32]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt9SvwiuNgj7fNnAopuc44wY
+348891[15/10/31 00:59:32]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:承德新鲜事儿;account:cdnews;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgb4-RTH3eos3-c_-ES9iKP2pHFIzlPMxkUMnKfmPcoknO1h5eI_9IclvcbFkQ4mZXti-qFzpAEl7_VMF9hTqPmo2NHJkLWW-842DF4WGO6H_zjaLT7eynqJ&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wg_c5b0Sqlcsx3_2TX_ekYyFJmAPOq06MylEaNcgowGXGQ3JxMQ3374l4Ut1vPUWAZ8lCZJi5S8RFscZvHLZ_b1R9SRN-lC_3BYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+378954[15/10/31 01:00:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：车市红点
+;cookie:ABTEST=7|1446223162|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339D3A;1446223165330510;SNUID=32D943790A0C295F1BD6E2BB0ABD4B49
+379482[15/10/31 01:00:03]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MzA3MjA0MTUyNA==
+379482[15/10/31 01:00:03]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFtxLz1lSeVbUM8uORpf5CQDc
+379482[15/10/31 01:00:03]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:车市红点;account:cheshihongdian;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkga1uisj4eAD1zuUhIxfGzrzW2QOFeXV0vF_vFAyYrxj97OjK5yRGIaSZkiQscbFcRvEIsk7F7_KdDtBawiVDmf0PW9HE3SXZ2oFssLVFYY3hg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whvGXxsb_sJORGhG0JF0y95FJmAPOq06Mw4K03W8x5C22Q3JxMQ3374xzcQUB8ci1-sBzYnxVLmh0bbievNKa5w-Zcizd9X2X5Yy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+409529[15/10/31 01:00:33]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：新北方
+;cookie:ABTEST=0|1446222681|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339B59;1446222684603090;SNUID=BF57CEF48480A7D070BC217885B1044D
+410201[15/10/31 01:00:34]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5MTMwNzQyMA==
+410202[15/10/31 01:00:34]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFtxi8rj0wWcii6jmFSF2CYsU
+410202[15/10/31 01:00:34]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:新北方;account:xbf_23186688;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgZorbLkv_6LAzWFF7C47rIkb0M42CshjxciKsVwxfUwqbD5mT__5qE5OX84-iBQAudTZXhOSIAWisO4RBrfzPeRZ_W6XIuzfbpLH1MaZLqqSg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wjoxkFsF8IxnC4LyvlBuVU8FJmAPOq06MyUWB_28nooY2Q3JxMQ3374BraBwGuu8_liMOSpi-9mXrvf9T7sujFgzaejw02vtwhYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+440253[15/10/31 01:01:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：日本淘
+;cookie:ABTEST=7|1446223162|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339D3A;1446223165330510;SNUID=32D943790A0C295F1BD6E2BB0ABD4B49
+440906[15/10/31 01:01:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5NTQ1MTM4MQ==
+440906[15/10/31 01:01:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt7luHEtWEC87VlHTLPO6WO8
+440906[15/10/31 01:01:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:日本淘;account:riben517;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgaC9SxGE0XaUPIwP7nu__5YiItNAQ2IURp_vFAyYrxj97OjK5yRGIaSZkiQscbFcRvEIsk7F7_KdEXl_snL-cAobDZZiDNBTtRLH1MaZLqqSg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wj1mTswu6LTYFaY_y2gPnisFJmAPOq06MwjUik7fBegDGQ3JxMQ3374R8r3Z6b_IYDZ9XUy8K38aPmYHL1zqDXxEZwrq4mOZ0lYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+470992[15/10/31 01:01:34]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：生活教授
+;cookie:ABTEST=0|1446222681|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339B59;1446222684603090;SNUID=BF57CEF48480A7D070BC217885B1044D
+471787[15/10/31 01:01:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MzA3ODE2NTg3Nw==
+471788[15/10/31 01:01:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt46k49QB6s6JKl3aVDwQPhA
+471788[15/10/31 01:01:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:生活教授;account:We809000;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgaFo_UJZmI1Qx8IX7Nos4XZhQhh1xbWBu0iKsVwxfUwqbD5mT__5qE5OX84-iBQAudTZXhOSIAWinJT8vg607-hiEhN8zdM0U4FssLVFYY3hg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wj7w11GM2T1puZkYcvTLfUJFJmAPOq06MxAFizqbC20o2Q3JxMQ3374nw2poJBwf_8b6lfoXLYsfAOhjlqkX2J4z4eRkzFk-o9Yy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+501855[15/10/31 01:02:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：苹果频道
+;cookie:ABTEST=4|1446222321|v1;IPLOC=CN4406;SUID=3BD34A706B20900A00000000563399F1;1446222324057177;SNUID=B05FC1FC8C89AFDF5337C29A8CDB5EFE
+502282[15/10/31 01:02:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5OTA5ODA0MA==
+502283[15/10/31 01:02:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFtx8FcM5P39XtppI3U60_838
+502283[15/10/31 01:02:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:苹果频道;account:appleins;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgaK7QTIq4LS2pPpRxvMjN5k4OIN24akrobapyGOvO_mtuZl4wy527r_2mgcv4feuH_O7YG26xYe3UI9stzFoQyTumbkvedAkukFssLVFYY3hg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wh8LzeXcggQwT5XXERTyjtjFJmAPOq06MyZ2tQxs4iGhGQ3JxMQ3374571AU8bSozStBsF6a4pk3Te7NnJh5jUARurEnDoavINYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+532414[15/10/31 01:02:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：搞笑视频
+;cookie:ABTEST=8|1446222561|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339AE1;1446222564429341;SNUID=00E8714B3A3E186ED535D70E3BF2F610
+534266[15/10/31 01:02:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MzA3NDI2NzQzMg==
+534266[15/10/31 01:02:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt5eIJfwoVa2uRY4ck85fVvc
+534266[15/10/31 01:02:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:搞笑视频;account:gxsp88;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgaFVf-tPom49OamsF97UDjaP_CUCzr7y5pFSCEPd16w3Dl2Gq9Piewa3uviQPfzaDzzPQyaVyDrLEJ3orsPO84_PCK-DNewf9wFssLVFYY3hg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wjfsq-vdEJNdIcg43LXWrvvFJmAPOq06MyTyrrVN4G0sWQ3JxMQ3374pscaznvzxFhsKdYJ5-hABXf5Aid8WdV3VwtrRrJOvsFYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+564316[15/10/31 01:03:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：微信公开课
+;cookie:ABTEST=8|1446222561|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339AE1;1446222564429341;SNUID=00E8714B3A3E186ED535D70E3BF2F610
+594732[15/10/31 01:03:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：母婴育儿问答
+;cookie:ABTEST=4|1446222801|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339BD1;1446222804781760;SNUID=B05FC6FB8B89A8DF70E9F91D8C9F64FA
+595195[15/10/31 01:03:39]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5MDMxOTIyMA==
+595196[15/10/31 01:03:39]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFtyG9Bqmtd6qGRlGXxk6pgVA
+595196[15/10/31 01:03:39]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:母婴育儿问答;account:muyingwenda;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgZVYbS6yyhkYOpmlp1wmIkvSw4Ta7VSHucMnKfmPcoknO1h5eI_9IclvcbFkQ4mZXti-qFzpAEl76LNbehTpMbC8wG-cCVXHZ4se2kKK489FDjaLT7eynqJ&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wjeL1gCPW48uva5ueApijB6FJmAPOq06MzuYr2YJz8wAWQ3JxMQ3374etPi3L9xhg9VVU4CnBT1zADYf8SC2g0IvO1Og5QRAYFYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+625254[15/10/31 01:04:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：电影头条
+;cookie:ABTEST=0|1446222681|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339B59;1446222684603090;SNUID=BF57CEF48480A7D070BC217885B1044D
+625842[15/10/31 01:04:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5MTEzMDc2MA==
+625842[15/10/31 01:04:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt5gaY_h-TADBcXDUMWXiw_I
+625842[15/10/31 01:04:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:电影头条;account:movieiii;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgZdjLO1jSoil4OHfWZAsQcdNOwwIaUFkDIiKsVwxfUwqbD5mT__5qE5OX84-iBQAudTZXhOSIAWiiLQwHwvLC_pw1nJNey_ZbUFssLVFYY3hg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whw9thRwwI5EffnSTke1PpMUW-zPEc5g3wzWl-qWldZ7GQ3JxMQ3374K15b_u0_LlQq_dk63lq-g4Xp65hg3amylbLbbekTLGZYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+655905[15/10/31 01:04:39]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：全球搞笑笑话榜
+;cookie:ABTEST=0|1446223042|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339CC2;1446223045154486;SNUID=3BD3B58F0005DC550AB6334B00F7CD47
+656541[15/10/31 01:04:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：逗比学园
+;cookie:ABTEST=0|1446222441|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339A69;1446222444241110;SNUID=8E66FCC5B5B395E15350B97BB6392690
+657075[15/10/31 01:04:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5MDgwODk1OA==
+657075[15/10/31 01:04:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFtwumka3z17q6uPSpOuiVKq0
+657075[15/10/31 01:04:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:逗比学园;account:doubixy;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgawrNZsr3aDoeTlEcrCDQe5H4qtCyBPPqtqahsvVX2sEZI56z989qhMcrY-5FaaIKNIVE6BecECpTIDnYsi_R_tD5rwtJWcH1YFssLVFYY3hg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wgs14bomIYqYE5QQcZQamGYFJmAPOq06MyROwm4oTzVZGQ3JxMQ3374GEDMClavYLZyEL8noibl1BG7a15VcgNrdKFwRaYoUVpYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+687128[15/10/31 01:05:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：瑜伽网
+;cookie:ABTEST=0|1446223042|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339CC2;1446223045154486;SNUID=3BD3B58F0005DC550AB6334B00F7CD47
+687873[15/10/31 01:05:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：美食健康养生
+;cookie:ABTEST=0|1446222201|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339979;1446222203893592;SNUID=967FE6DCACA88FF8753DD6F8AD9984DE
+688511[15/10/31 01:05:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5MzQzODk1MQ==
+688512[15/10/31 01:05:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt_uAvS6h64faSm9AHrY_6wI
+688512[15/10/31 01:05:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:美食健康养生;account:xiangxigo;url:http://weixin.sogou.com/websearch/art.jsp?sg=sn77VhdTZLp12uvR4rXKwhjvNSSQQ4mxNYL4Q3GMhkbQoxMgy8mlIcOm70_t00_BwqW8QHaixZRNQLslVKTdzYlK7SxvHqxuK5LJylO_jb5RLqG0nisP4DjaLT7eynqJ&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wgmOqTRZAvh629DenQmudvcFJmAPOq06MyJtMN1d9OmImQ3JxMQ3374Q_zhIx-5Hguh55wu8TSYFzmOtTlJAbRkhi1hycW6eKpYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+718539[15/10/31 01:05:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：新设技
+;cookie:ABTEST=4|1446222801|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339BD1;1446222804781760;SNUID=B05FC6FB8B89A8DF70E9F91D8C9F64FA
+719085[15/10/31 01:05:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MzA5NTA3NDYyNQ==
+719086[15/10/31 01:05:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFtyQA3p2URvE1T1jtL8z0SsQ
+719086[15/10/31 01:05:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:新设技;account:new4life;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgaW6P4YrndOLpl6nM3Nry0fnVQb7BeEoVYMnKfmPcoknO1h5eI_9IclvcbFkQ4mZXti-qFzpAEl7ypiC1fyvM9XoXoRVAV_fGxLH1MaZLqqSg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wgZHn7lNtaV28K6BkpcwKReFJmAPOq06MxL0c6OquRNUWQ3JxMQ3374-qqXd1I1UBaO_S7cjoywNbmTevqX2P-m5o_htyisJ1BYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+749419[15/10/31 01:06:13]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：视觉盛宴
+;cookie:ABTEST=0|1446222201|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339979;1446222203893592;SNUID=967FE6DCACA88FF8753DD6F8AD9984DE
+750210[15/10/31 01:06:14]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5MzQzMTE2Ng==
+750210[15/10/31 01:06:14]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt3QcjKARW5qS-hEKNC6HOs0
+750210[15/10/31 01:06:14]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:视觉盛宴;account:shijue86;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgaUJCUq_Z4BySnkHCFuhs-f5849R_ckaJzQoxMgy8mlIcOm70_t00_BwqW8QHaixZRNQLslVKTdzQiZTmAX_8yJr9258wjfqJAFssLVFYY3hg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wgmOqTRZAvh66EIL2oGp8WDFJmAPOq06MxXOcrt1QJxsmQ3JxMQ3374WXCNT1JPm_Yd-NGiUE6oP0WNbbKZyUy-q6mjN2ml5tNYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+780248[15/10/31 01:06:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：生活小智慧
+;cookie:ABTEST=8|1446222561|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339AE1;1446222564429341;SNUID=00E8714B3A3E186ED535D70E3BF2F610
+810814[15/10/31 01:07:14]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：辣妈教室
+;cookie:ABTEST=8|1446222561|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339AE1;1446222564429341;SNUID=00E8714B3A3E186ED535D70E3BF2F610
+811514[15/10/31 01:07:15]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5NjA0ODQwMA==
+811515[15/10/31 01:07:15]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt4kJEK6I9lJ0G848g0oIV-8
+811515[15/10/31 01:07:15]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:辣妈教室;account:lamajiaoshi;url:http://weixin.sogou.com/websearch/art.jsp?sg=MZBLgxp1jtVyk6KU9oE0bELD0-76sJsx6nupshNa4MNFSCEPd16w3Dl2Gq9Piewa3uviQPfzaDzzPQyaVyDrLN32PABXInPP7B4A2cUvO-8FssLVFYY3hg..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiygFdYI6RbBNhnXyM2Sza9FJmAPOq06Mxj2FtJInUo0mQ3JxMQ3374PDDaw6NR9uY0KVILCw-ShAYAUiI3m5uucajr89jZtuhYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+841581[15/10/31 01:07:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：上街吧
+;cookie:ABTEST=4|1446222321|v1;IPLOC=CN4406;SUID=3BD34A706B20900A00000000563399F1;1446222324057177;SNUID=B05FC1FC8C89AFDF5337C29A8CDB5EFE
+871959[15/10/31 01:08:15]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：空空道人
+;cookie:ABTEST=4|1446222801|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339BD1;1446222804781760;SNUID=B05FC6FB8B89A8DF70E9F91D8C9F64FA
+902460[15/10/31 01:08:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：百度旅游
+;cookie:ABTEST=0|1446222441|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339A69;1446222444241110;SNUID=8E66FCC5B5B395E15350B97BB6392690
+932849[15/10/31 01:09:16]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：旅行攻略
+;cookie:ABTEST=4|1446222801|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339BD1;1446222804781760;SNUID=B05FC6FB8B89A8DF70E9F91D8C9F64FA
+963436[15/10/31 01:09:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：全球钓鱼攻略
+;cookie:ABTEST=0|1446222922|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339C4A;1446222924969515;SNUID=33DB4379080D2A5C0A85461D09C33381
+994610[15/10/31 01:10:18]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：建筑管理
+;cookie:ABTEST=0|1446222441|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339A69;1446222444241110;SNUID=8E66FCC5B5B395E15350B97BB6392690
+1024991[15/10/31 01:10:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：盛成妈妈网
+;cookie:ABTEST=0|1446222201|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339979;1446222203893592;SNUID=967FE6DCACA88FF8753DD6F8AD9984DE
+1055390[15/10/31 01:11:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：人民日报评论
+;cookie:ABTEST=0|1446223042|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339CC2;1446223045154486;SNUID=3BD3B58F0005DC550AB6334B00F7CD47
+467 [15/10/31 01:15:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Sat Oct 31 01:15:07 CST 2015]; root of context hierarchy
+519 [15/10/31 01:15:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1027[15/10/31 01:15:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1027[15/10/31 01:15:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1039[15/10/31 01:15:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1569[15/10/31 01:15:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1579[15/10/31 01:15:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1584[15/10/31 01:15:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1587[15/10/31 01:15:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3235[15/10/31 01:15:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3376[15/10/31 01:15:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3384[15/10/31 01:15:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3436[15/10/31 01:15:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4251[15/10/31 01:15:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+455 [15/10/31 01:16:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Sat Oct 31 01:16:04 CST 2015]; root of context hierarchy
+512 [15/10/31 01:16:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1022[15/10/31 01:16:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1023[15/10/31 01:16:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1032[15/10/31 01:16:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1639[15/10/31 01:16:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1655[15/10/31 01:16:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1658[15/10/31 01:16:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1662[15/10/31 01:16:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3560[15/10/31 01:16:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3701[15/10/31 01:16:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3707[15/10/31 01:16:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3775[15/10/31 01:16:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4899[15/10/31 01:16:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6716[15/10/31 01:16:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：交通91.8
+;cookie:ABTEST=7|1446223162|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339D3A;1446223165330510;SNUID=32D943790A0C295F1BD6E2BB0ABD4B49
+485 [15/10/31 01:17:03]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Sat Oct 31 01:17:03 CST 2015]; root of context hierarchy
+542 [15/10/31 01:17:03]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1041[15/10/31 01:17:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1042[15/10/31 01:17:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1055[15/10/31 01:17:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1592[15/10/31 01:17:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1604[15/10/31 01:17:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1608[15/10/31 01:17:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1612[15/10/31 01:17:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3225[15/10/31 01:17:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3363[15/10/31 01:17:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3367[15/10/31 01:17:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3420[15/10/31 01:17:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4216[15/10/31 01:17:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+5296[15/10/31 01:17:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：交通91.8
+;cookie:ABTEST=8|1446222561|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339AE1;1446222564429341;SNUID=00E8714B3A3E186ED535D70E3BF2F610
+559 [15/10/31 01:18:03]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Sat Oct 31 01:18:03 CST 2015]; root of context hierarchy
+612 [15/10/31 01:18:03]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1103[15/10/31 01:18:03]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1104[15/10/31 01:18:03]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1125[15/10/31 01:18:03]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1674[15/10/31 01:18:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1683[15/10/31 01:18:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1685[15/10/31 01:18:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1688[15/10/31 01:18:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3253[15/10/31 01:18:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3388[15/10/31 01:18:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3393[15/10/31 01:18:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3444[15/10/31 01:18:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4224[15/10/31 01:18:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6451[15/10/31 01:18:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：交通91.8
+;cookie:ABTEST=4|1446222321|v1;IPLOC=CN4406;SUID=3BD34A706B20900A00000000563399F1;1446222324057177;SNUID=B05FC1FC8C89AFDF5337C29A8CDB5EFE
+474 [15/10/31 01:18:34]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Sat Oct 31 01:18:34 CST 2015]; root of context hierarchy
+533 [15/10/31 01:18:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1024[15/10/31 01:18:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1026[15/10/31 01:18:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1036[15/10/31 01:18:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1551[15/10/31 01:18:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1564[15/10/31 01:18:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1568[15/10/31 01:18:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1571[15/10/31 01:18:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3458[15/10/31 01:18:37]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3592[15/10/31 01:18:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3597[15/10/31 01:18:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3650[15/10/31 01:18:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4438[15/10/31 01:18:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6525[15/10/31 01:18:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：交通91.8
+;cookie:ABTEST=0|1446222922|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339C4A;1446222924969515;SNUID=33DB4379080D2A5C0A85461D09C33381
+451 [15/10/31 01:20:55]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Sat Oct 31 01:20:55 CST 2015]; root of context hierarchy
+501 [15/10/31 01:20:55]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1067[15/10/31 01:20:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1068[15/10/31 01:20:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1078[15/10/31 01:20:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1533[15/10/31 01:20:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1541[15/10/31 01:20:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1543[15/10/31 01:20:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1545[15/10/31 01:20:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2909[15/10/31 01:20:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3040[15/10/31 01:20:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3044[15/10/31 01:20:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3093[15/10/31 01:20:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+3912[15/10/31 01:20:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6662[15/10/31 01:21:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：交通91.8
+;cookie:ABTEST=0|1446222681|v1;IPLOC=CN4406;SUID=3BD34A706B20900A0000000056339B59;1446222684603090;SNUID=BF57CEF48480A7D070BC217885B1044D
+1454[15/10/31 23:19:31]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.spider.process.SouGouCookieJob - cookie:ABTEST=0|1446304767|v1;IPLOC=CN4403;SUID=55BD85DBE518920A000000005634DBFF;SNUID=47AF94CA1214317903F6F9B712DFCA94;
+1417[15/10/31 23:20:40]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.spider.process.SouGouCookieJob - cookie:
+1381[15/10/31 23:21:33]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.spider.process.SouGouCookieJob - cookie:SUV=0019783DDB85BD555634DC7966DB2332
+1526[15/10/31 23:22:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.spider.process.SouGouCookieJob - cookie:ABTEST=0|1446304928|v1;IPLOC=CN4403;SUID=55BD85DBE518920A000000005634DCA0;SNUID=5CB48DD3090C2A6012899CA709F2CEB2;SUV=00716402DB85BD555634DCA07FA7C018
+517 [15/10/31 23:54:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Sat Oct 31 23:54:46 CST 2015]; root of context hierarchy
+591 [15/10/31 23:54:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1262[15/10/31 23:54:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1265[15/10/31 23:54:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1286[15/10/31 23:54:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1902[15/10/31 23:54:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1910[15/10/31 23:54:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1913[15/10/31 23:54:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1914[15/10/31 23:54:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3750[15/10/31 23:54:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3896[15/10/31 23:54:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3901[15/10/31 23:54:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3957[15/10/31 23:54:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4883[15/10/31 23:54:50]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+7376[15/10/31 23:54:52]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：交通91.8
+;cookie:ABTEST=8|1446305568|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005634DF20;SNUID=59B22B116164420A20C41709627B81EB;SUV=00A21000704AD33B5634DF20960A7823
+8213[15/10/31 23:54:53]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MTA5Mzc3MDQyMA==
+8217[15/10/31 23:54:53]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt1mY-3Lon2m_LiB3CY41z04
+8218[15/10/31 23:54:53]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:交通91.8;account:hzfm918;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgb9Y6E3DKqF-TWaJT9_A62tgjIp-WvLvoBSxzcCA7DrT8RvrNvsa1z4V0qPVvITgRZqnyeyuXZnamhA5wsazoYJr4yNksvgLGRA9oHwn4c4MRfBTEqhcBXIx0_k5YSTF9GdVukvnxy6NjjaLT7eynqJ&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whHQXaUIGtOdtH-NpYefkSDUW-zPEc5g3ytKTMB0KGYzmQ3JxMQ3374KsjKHVA36i_FzYfUHZKgg1KyA4ibneVWsgf9VSO4SO1Yy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+38307[15/10/31 23:55:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：中医养生
+;cookie:ABTEST=0|1446306290|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005634E1F2;SNUID=3B2C4A8F00FA23979353AF04000AAA89;SUV=00B36409704AD33B5634E1F29CB8D739
+68961[15/10/31 23:55:54]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：单反入门知识摄影技巧数码拍客控
+;cookie:ABTEST=1|1446306410|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005634E26A;SNUID=2CC45D671713357E64C098E817E0F83E;SUV=00AA6406704AD33B5634E26A4A9CB331
+69533[15/10/31 23:55:55]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5MDEzNTM1Mg==
+69533[15/10/31 23:55:55]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt2_b-33amEUaz68RGPMB6Fo
+69533[15/10/31 23:55:55]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:单反入门知识摄影技巧数码拍客控;account:paikekong;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgaIKOnmLvsdo4ySKwNj3ylDJ8EabfnCmZo-My8SP1F9OnZKT6gg0al3uGDECZcsezg6uyHmZjNRs7tm-dVG0-HadBiPzmqWXxypcQiwh7Y5XQp1UsFra-gEaIQT5EByYTuCAXF2v63DyUoBUfiNY6QeDv9rcRXPQGoojVIbiZZB9aS2b2MQ9thQfst1cmX-btA.&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wjmpJwkJaXH04saWlQBVcvAFJmAPOq06MxaUtG5C2NM22Q3JxMQ3374hkifp5PwMTkuw3euq8L6SbHp0j-BXB1OTwHtclCx06lYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+99567[15/10/31 23:56:25]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：第一现场
+;cookie:ABTEST=7|1446306169|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005634E179;SNUID=CD25BC86F5F3D59E937605B1F6F9F743;SUV=00AA6406704AD33B5634E17A4735F238
+100365[15/10/31 23:56:25]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5NDgzMTkzMQ==
+100365[15/10/31 23:56:25]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt5VXkCRnWempRDrIMvD2uAI
+100365[15/10/31 23:56:25]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:第一现场;account:club591hx;url:http://weixin.sogou.com/websearch/art.jsp?sg=HIL9GMq1R0-rLbkre0CkM9CvwzsJ2WE_6P7hf4ANY1cTV6S380apy2xXAUjf6fJSVvLJ1K1-PngK3nFKB2moFneiz2Usrjv0dBiPzmqWXxxGPQqB5r6q7ZGYqPF9fhrF0oyjveEgiSSORQHgvKUBQwWywtUVhjeG&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiMedyjkPhbm0RdBlRODPMfFJmAPOq06MwPRqY5dVO-DWQ3JxMQ3374STzjdTak_tH-p2bnf3l20VqxFbMzyOhJjfVl2TVT1IVYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+130478[15/10/31 23:56:55]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：中医养生秘诀
+;cookie:ABTEST=8|1446305568|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005634DF20;SNUID=59B22B116164420A20C41709627B81EB;SUV=00A21000704AD33B5634DF20960A7823
+131111[15/10/31 23:56:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MzA4OTE3ODAwNw==
+131112[15/10/31 23:56:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt8UkWD3m7Ywyk-e5U3mEXIQ
+131112[15/10/31 23:56:56]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:中医养生秘诀;account:vip178vip;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgYlWXuyCx57MJz0hUTpocCUGPnNEkeSZNVSxzcCA7DrT8RvrNvsa1z4V0qPVvITgRZqnyeyuXZnamhA5wsazoYJr4yNksvgLGRA9oHwn4c4MRfBTEqhcBXI_bHCjoUI3BK-rOkdbRz4EhbmrHQe_kyhONotPt7Keok.&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiCBaDgBvmIQHqo3ZYNb1TuFJmAPOq06Mwc1aHMQBO31GQ3JxMQ3374szMe-onO4P9qiBCphSog0Ey9BPrEy-VkGquVibBjwUpYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+161184[15/10/31 23:57:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：Before-After
+;cookie:ABTEST=0|1446305448|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005634DEA8;SNUID=E40C9590E0DAFC88E59A5990E07F19C9;SUV=000F1003704AD33B5634DEA899C7E383
+161693[15/10/31 23:57:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：MjM5NDIwMDE5Mw==
+161694[15/10/31 23:57:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 微信号：oIWsFt19ajFA0f2Bcueu0g5CdmHg
+161694[15/10/31 23:57:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - name:Before-After;account:ibababa;url:http://weixin.sogou.com/websearch/art.jsp?sg=CBf80b2xkgZe_bA1YaLuPmepaT2zKD0aO06TClpzZ3wfAjAFSGm1mq5HWK9QDAvPZcIFEXlyqtr_BGi-BB3w19mvNwIYWfQTDFsEQJXr55Pauc4TFf44RF-R8ucMWlG2lZ7HxPZSCsfW6rX0-gwbMwWywtUVhjeG&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wj6AKKRV-8gDalAiuoLL5SxFJmAPOq06MxwulGUN27SWmQ3JxMQ3374Uvg4d8D9G2S3mIyiCjKWuOSICYIvcyHF8DLyDdOAf09Yy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+613 [15/10/31 23:57:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Sat Oct 31 23:57:42 CST 2015]; root of context hierarchy
+831 [15/10/31 23:57:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1383[15/10/31 23:57:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1383[15/10/31 23:57:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1393[15/10/31 23:57:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1839[15/10/31 23:57:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1850[15/10/31 23:57:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1853[15/10/31 23:57:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1857[15/10/31 23:57:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3589[15/10/31 23:57:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3738[15/10/31 23:57:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3745[15/10/31 23:57:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3799[15/10/31 23:57:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4674[15/10/31 23:57:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+7226[15/10/31 23:57:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    507574821 nanoseconds spent acquiring 1 JDBC connections;
+    52602 nanoseconds spent releasing 1 JDBC connections;
+    528218535 nanoseconds spent preparing 1 JDBC statements;
+    1262355459 nanoseconds spent executing 1 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    26366151 nanoseconds spent executing 1 flushes (flushing a total of 1132 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+7554[15/10/31 23:57:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：交通91.8
+;cookie:ABTEST=0|1446306290|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005634E1F2;SNUID=3B2C4A8F00FA23979353AF04000AAA89;SUV=00B36409704AD33B5634E1F29CB8D739
+8713[15/10/31 23:57:50]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：中医养生
+;cookie:ABTEST=8|1446305568|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005634DF20;SNUID=59B22B116164420A20C41709627B81EB;SUV=00A21000704AD33B5634DF20960A7823
+555 [15/10/31 23:59:16]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Sat Oct 31 23:59:16 CST 2015]; root of context hierarchy
+615 [15/10/31 23:59:16]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1141[15/10/31 23:59:16]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1141[15/10/31 23:59:16]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1150[15/10/31 23:59:16]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1648[15/10/31 23:59:17]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1659[15/10/31 23:59:17]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1662[15/10/31 23:59:17]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1664[15/10/31 23:59:17]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3338[15/10/31 23:59:18]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3506[15/10/31 23:59:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3513[15/10/31 23:59:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3576[15/10/31 23:59:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4621[15/10/31 23:59:20]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6776[15/10/31 23:59:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.i.StatisticalLoggingSessionEventListener - Session Metrics {
+    421008673 nanoseconds spent acquiring 1 JDBC connections;
+    59016 nanoseconds spent releasing 1 JDBC connections;
+    434271934 nanoseconds spent preparing 1 JDBC statements;
+    879808274 nanoseconds spent executing 1 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    26255389 nanoseconds spent executing 1 flushes (flushing a total of 1132 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+7212[15/10/31 23:59:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.process.service.SouGouService - 搜索：交通91.8
+;cookie:ABTEST=1|1446306410|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005634E26A;SNUID=2CC45D671713357E64C098E817E0F83E;SUV=00AA6406704AD33B5634E26A4A9CB331

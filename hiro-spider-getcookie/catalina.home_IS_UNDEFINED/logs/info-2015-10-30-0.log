@@ -1,0 +1,695 @@
+
+1407[15/10/30 22:03:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Fri Oct 30 22:03:04 CST 2015]; root of context hierarchy
+1513[15/10/30 22:03:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+2779[15/10/30 22:03:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+2794[15/10/30 22:03:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+2804[15/10/30 22:03:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+3769[15/10/30 22:03:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+3777[15/10/30 22:03:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+3781[15/10/30 22:03:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+3784[15/10/30 22:03:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+6450[15/10/30 22:03:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+6690[15/10/30 22:03:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+6697[15/10/30 22:03:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+6824[15/10/30 22:03:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+618 [15/10/30 22:03:20]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 22:03:20 CST 2015]; root of context hierarchy
+701 [15/10/30 22:03:20]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1393[15/10/30 22:03:21]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1394[15/10/30 22:03:21]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1415[15/10/30 22:03:21]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2126[15/10/30 22:03:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2138[15/10/30 22:03:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+2140[15/10/30 22:03:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2142[15/10/30 22:03:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3875[15/10/30 22:03:24]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+4053[15/10/30 22:03:24]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+4059[15/10/30 22:03:24]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+4124[15/10/30 22:03:24]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+5249[15/10/30 22:03:25]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+37313[15/10/30 22:03:57]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - Unexpected error occurred in scheduled task.org.hibernate.HibernateException: Could not obtain transaction-synchronized Session for current thread
+	at org.springframework.orm.hibernate4.SpringSessionContext.currentSession(SpringSessionContext.java:134) ~[spring-orm-4.1.4.RELEASE.jar:4.1.4.RELEASE]
+	at org.hibernate.internal.SessionFactoryImpl.getCurrentSession(SessionFactoryImpl.java:1014) ~[hibernate-core-4.3.11.Final.jar:4.3.11.Final]
+	at com.hiro.spider.data.dao.impl.BaseDao.getSession(BaseDao.java:37) ~[classes/:na]
+	at com.hiro.spider.data.dao.impl.BaseDao.findAll(BaseDao.java:61) ~[classes/:na]
+	at com.hiro.spider.process.SouGouOfficialAccountJob.getPublicNumbers(SouGouOfficialAccountJob.java:50) ~[classes/:na]
+	at com.hiro.spider.process.SouGouOfficialAccountJob.start(SouGouOfficialAccountJob.java:46) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_60]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:65) ~[spring-context-4.1.4.RELEASE.jar:4.1.4.RELEASE]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-4.1.4.RELEASE.jar:4.1.4.RELEASE]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_60]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_60]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_60]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_60]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_60]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_60]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_60]
+
+518 [15/10/30 22:04:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Fri Oct 30 22:04:59 CST 2015]; root of context hierarchy
+574 [15/10/30 22:04:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1156[15/10/30 22:04:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1157[15/10/30 22:04:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1173[15/10/30 22:04:59]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1821[15/10/30 22:05:00]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1833[15/10/30 22:05:00]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1838[15/10/30 22:05:00]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1840[15/10/30 22:05:00]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3704[15/10/30 22:05:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3863[15/10/30 22:05:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3871[15/10/30 22:05:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3935[15/10/30 22:05:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4812[15/10/30 22:05:03]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+522 [15/10/30 22:05:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Fri Oct 30 22:05:43 CST 2015]; root of context hierarchy
+582 [15/10/30 22:05:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1182[15/10/30 22:05:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1183[15/10/30 22:05:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1192[15/10/30 22:05:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1801[15/10/30 22:05:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1810[15/10/30 22:05:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1812[15/10/30 22:05:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1814[15/10/30 22:05:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3679[15/10/30 22:05:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3844[15/10/30 22:05:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3849[15/10/30 22:05:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3905[15/10/30 22:05:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4838[15/10/30 22:05:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+8249[15/10/30 22:05:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:ABTEST=4|1446049305|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F619;1446049308454412;SNUID=B45CC4FE8E8BADA318B9FA848F90C187
+608 [15/10/30 22:06:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 22:06:04 CST 2015]; root of context hierarchy
+673 [15/10/30 22:06:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1218[15/10/30 22:06:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1219[15/10/30 22:06:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1229[15/10/30 22:06:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1755[15/10/30 22:06:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1765[15/10/30 22:06:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1768[15/10/30 22:06:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1770[15/10/30 22:06:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+4084[15/10/30 22:06:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+4249[15/10/30 22:06:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+4255[15/10/30 22:06:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+4320[15/10/30 22:06:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+5512[15/10/30 22:06:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+8572[15/10/30 22:06:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:ABTEST=4|1446048584|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F348;1446048587338481;SNUID=5AB32A116064434D0C5B9DE66119953E
+9343[15/10/30 22:06:13]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：中医养生
+;cookie:ABTEST=8|1446048705|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F3C1;1446048707521056;SNUID=52BA2218686C4A441A0C805769FEC6A7
+9980[15/10/30 22:06:13]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：单反入门知识摄影技巧数码拍客控
+;cookie:ABTEST=8|1446048705|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F3C1;1446048707521056;SNUID=52BA2218686C4A441A0C805769FEC6A7
+10516[15/10/30 22:06:14]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：第一现场
+;cookie:ABTEST=0|1446049185|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F5A1;1446049188273657;SNUID=CD24BD86F7F2D5DA67FA62E3F7EC6CA3
+11217[15/10/30 22:06:14]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：中医养生秘诀
+;cookie:ABTEST=0|1446049185|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F5A1;1446049188273657;SNUID=CD24BD86F7F2D5DA67FA62E3F7EC6CA3
+623 [15/10/30 22:06:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 22:06:48 CST 2015]; root of context hierarchy
+689 [15/10/30 22:06:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1242[15/10/30 22:06:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1243[15/10/30 22:06:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1252[15/10/30 22:06:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1770[15/10/30 22:06:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1779[15/10/30 22:06:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1782[15/10/30 22:06:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1784[15/10/30 22:06:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+9705[15/10/30 22:06:57]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+9874[15/10/30 22:06:57]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+9881[15/10/30 22:06:57]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+9943[15/10/30 22:06:57]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+11113[15/10/30 22:06:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+41311[15/10/30 22:07:28]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:ABTEST=8|1446048464|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F2D0;1446048467088857;SNUID=AE47DEE59591B7B8F184C0DA954098AF
+560 [15/10/30 22:52:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 22:52:04 CST 2015]; root of context hierarchy
+629 [15/10/30 22:52:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1183[15/10/30 22:52:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1184[15/10/30 22:52:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1194[15/10/30 22:52:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1753[15/10/30 22:52:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1772[15/10/30 22:52:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1775[15/10/30 22:52:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1777[15/10/30 22:52:06]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3594[15/10/30 22:52:07]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3739[15/10/30 22:52:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3745[15/10/30 22:52:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3805[15/10/30 22:52:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4674[15/10/30 22:52:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+16563[15/10/30 22:52:20]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:ABTEST=4|1446048584|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F348;1446048587338481;SNUID=5AB32A116064434D0C5B9DE66119953E
+540 [15/10/30 22:54:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 22:54:26 CST 2015]; root of context hierarchy
+592 [15/10/30 22:54:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1128[15/10/30 22:54:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1130[15/10/30 22:54:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1144[15/10/30 22:54:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1648[15/10/30 22:54:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1656[15/10/30 22:54:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1660[15/10/30 22:54:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1662[15/10/30 22:54:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2972[15/10/30 22:54:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3127[15/10/30 22:54:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3134[15/10/30 22:54:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3193[15/10/30 22:54:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4080[15/10/30 22:54:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+5214[15/10/30 22:54:31]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:ABTEST=8|1446048464|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F2D0;1446048467088857;SNUID=AE47DEE59591B7B8F184C0DA954098AF
+5881[15/10/30 22:54:32]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:交通91.8;account:微信号：hzfm918;url:“我都不在国内,手机流量怎么在跑?”当月流量不清零,却反倒用的...
+473 [15/10/30 22:59:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@21213b92: startup date [Fri Oct 30 22:59:35 CST 2015]; root of context hierarchy
+526 [15/10/30 22:59:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1030[15/10/30 22:59:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1031[15/10/30 22:59:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1041[15/10/30 22:59:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1574[15/10/30 22:59:37]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1584[15/10/30 22:59:37]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1587[15/10/30 22:59:37]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1589[15/10/30 22:59:37]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+535 [15/10/30 22:59:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 22:59:42 CST 2015]; root of context hierarchy
+591 [15/10/30 22:59:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1090[15/10/30 22:59:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1091[15/10/30 22:59:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1102[15/10/30 22:59:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1651[15/10/30 22:59:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1661[15/10/30 22:59:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1664[15/10/30 22:59:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1666[15/10/30 22:59:43]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3308[15/10/30 22:59:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3489[15/10/30 22:59:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3500[15/10/30 22:59:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3559[15/10/30 22:59:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4520[15/10/30 22:59:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6655[15/10/30 22:59:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:ABTEST=8|1446048705|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F3C1;1446048707521056;SNUID=52BA2218686C4A441A0C805769FEC6A7
+8626[15/10/30 22:59:50]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:交通91.8;account:微信号：hzfm918;url:/websearch/art.jsp?sg=CBf80b2xkgb9Y6E3DKqF-TWaJT9_A62tgjIp-WvLvoASiThOKNiBm9u_VVWpLb5P-wdvDteysypd3Ovq_-2lXf9o2F_APZ7cnVbpL58cujY42i0-3sp6iQ..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whHQXaUIGtOdtH-NpYefkSDUW-zPEc5g3ww6CWMSUmPo2Q3JxMQ33744yEySxmqIQJY1-RJw6dicQF_4dsVne4bMfVWzJXryBtYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+553 [15/10/30 23:08:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 23:08:10 CST 2015]; root of context hierarchy
+609 [15/10/30 23:08:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1117[15/10/30 23:08:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1118[15/10/30 23:08:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1128[15/10/30 23:08:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1613[15/10/30 23:08:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1624[15/10/30 23:08:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1627[15/10/30 23:08:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1629[15/10/30 23:08:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3152[15/10/30 23:08:13]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3324[15/10/30 23:08:13]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3331[15/10/30 23:08:13]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3394[15/10/30 23:08:13]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4317[15/10/30 23:08:14]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6301[15/10/30 23:08:16]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:ABTEST=8|1446048705|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F3C1;1446048707521056;SNUID=52BA2218686C4A441A0C805769FEC6A7
+7083[15/10/30 23:08:17]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：中医养生
+;cookie:ABTEST=0|1446048945|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F4B1;1446048947893126;SNUID=B55DC7FE8D88ADA20F34369B8E98D356
+7748[15/10/30 23:08:18]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：单反入门知识摄影技巧数码拍客控
+;cookie:ABTEST=8|1446048705|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F3C1;1446048707521056;SNUID=52BA2218686C4A441A0C805769FEC6A7
+8222[15/10/30 23:08:18]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：第一现场
+;cookie:ABTEST=0|1446049546|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F70A;1446049548908680;SNUID=4FA63E0575715658D0F8118D75915A2B
+8942[15/10/30 23:08:19]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：中医养生秘诀
+;cookie:ABTEST=8|1446048464|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F2D0;1446048467088857;SNUID=AE47DEE59591B7B8F184C0DA954098AF
+552 [15/10/30 23:09:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 23:09:46 CST 2015]; root of context hierarchy
+622 [15/10/30 23:09:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1192[15/10/30 23:09:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1192[15/10/30 23:09:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1203[15/10/30 23:09:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1743[15/10/30 23:09:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1758[15/10/30 23:09:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1762[15/10/30 23:09:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1764[15/10/30 23:09:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+5080[15/10/30 23:09:50]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+5226[15/10/30 23:09:50]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+5233[15/10/30 23:09:50]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+5291[15/10/30 23:09:50]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+6164[15/10/30 23:09:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+15323[15/10/30 23:10:00]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:ABTEST=4|1446049305|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F619;1446049308454412;SNUID=B45CC4FE8E8BADA318B9FA848F90C187
+34811[15/10/30 23:10:20]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：中医养生
+;cookie:ABTEST=0|1446049185|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F5A1;1446049188273657;SNUID=CD24BD86F7F2D5DA67FA62E3F7EC6CA3
+529 [15/10/30 23:11:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 23:11:01 CST 2015]; root of context hierarchy
+585 [15/10/30 23:11:01]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1065[15/10/30 23:11:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1066[15/10/30 23:11:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1078[15/10/30 23:11:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1559[15/10/30 23:11:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1568[15/10/30 23:11:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1571[15/10/30 23:11:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1573[15/10/30 23:11:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3173[15/10/30 23:11:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3331[15/10/30 23:11:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3338[15/10/30 23:11:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3392[15/10/30 23:11:04]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4296[15/10/30 23:11:05]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+11363[15/10/30 23:11:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:ABTEST=0|1446049426|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F692;1446049428651198;SNUID=26CF576C1C193E31827D7A521D0FA3C7
+589 [15/10/30 23:12:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 23:12:44 CST 2015]; root of context hierarchy
+656 [15/10/30 23:12:44]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1221[15/10/30 23:12:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1222[15/10/30 23:12:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1232[15/10/30 23:12:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1675[15/10/30 23:12:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1687[15/10/30 23:12:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1690[15/10/30 23:12:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1692[15/10/30 23:12:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3280[15/10/30 23:12:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3432[15/10/30 23:12:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3437[15/10/30 23:12:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3495[15/10/30 23:12:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4408[15/10/30 23:12:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+11204[15/10/30 23:12:55]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:ABTEST=6|1446049065|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F529;1446049068085862;SNUID=B159C0FB8B8FA8A602685A448B631A14
+507 [15/10/30 23:13:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 23:13:26 CST 2015]; root of context hierarchy
+566 [15/10/30 23:13:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1123[15/10/30 23:13:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1124[15/10/30 23:13:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1139[15/10/30 23:13:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1828[15/10/30 23:13:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1848[15/10/30 23:13:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1851[15/10/30 23:13:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1853[15/10/30 23:13:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3409[15/10/30 23:13:28]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3575[15/10/30 23:13:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3582[15/10/30 23:13:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3642[15/10/30 23:13:29]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4534[15/10/30 23:13:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+12633[15/10/30 23:13:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:ABTEST=0|1446048825|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F439;1446048827705720;SNUID=14E365402F2A0C034AA0D99730B9506F
+33090[15/10/30 23:13:58]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - name:交通91.8;account:hzfm918;url:/websearch/art.jsp?sg=CBf80b2xkgb9Y6E3DKqF-TWaJT9_A62tgjIp-WvLvoCxiAVJzVCCcAKDCZJubTugnipPRV0JhLp2VJLPquUnXGqKeO2nW1UqnVbpL58cujY42i0-3sp6iQ..&url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whHQXaUIGtOdtH-NpYefkSDUW-zPEc5g3ww6CWMSUmPo2Q3JxMQ33744yEySxmqIQJY1-RJw6dicQF_4dsVne4bMfVWzJXryBtYy-5x5In7jJFmExjqCxhpkyjFvwP6PuHXv4VHW0InpgH5WKEdvsXWVAoP0i-E9uk.
+559 [15/10/30 23:21:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 23:21:51 CST 2015]; root of context hierarchy
+610 [15/10/30 23:21:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1103[15/10/30 23:21:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1103[15/10/30 23:21:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1114[15/10/30 23:21:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1596[15/10/30 23:21:52]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1607[15/10/30 23:21:52]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1610[15/10/30 23:21:52]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1612[15/10/30 23:21:52]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3281[15/10/30 23:21:53]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3443[15/10/30 23:21:54]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3449[15/10/30 23:21:54]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3507[15/10/30 23:21:54]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4428[15/10/30 23:21:55]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+12004[15/10/30 23:22:02]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:ABTEST=0|1446048945|v1;IPLOC=CN4406;SUID=3BD34A706B20900A000000005630F4B1;1446048947893126;SNUID=B55DC7FE8D88ADA20F34369B8E98D356
+553 [15/10/30 23:31:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 23:31:22 CST 2015]; root of context hierarchy
+621 [15/10/30 23:31:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1216[15/10/30 23:31:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1217[15/10/30 23:31:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1228[15/10/30 23:31:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1769[15/10/30 23:31:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1781[15/10/30 23:31:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1785[15/10/30 23:31:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1788[15/10/30 23:31:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+4584[15/10/30 23:31:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+4740[15/10/30 23:31:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+4746[15/10/30 23:31:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+4808[15/10/30 23:31:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+5724[15/10/30 23:31:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+13171[15/10/30 23:31:34]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+685 [15/10/30 23:34:08]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 23:34:08 CST 2015]; root of context hierarchy
+739 [15/10/30 23:34:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1271[15/10/30 23:34:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1271[15/10/30 23:34:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1283[15/10/30 23:34:09]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1808[15/10/30 23:34:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1820[15/10/30 23:34:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1824[15/10/30 23:34:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1826[15/10/30 23:34:10]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3536[15/10/30 23:34:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3692[15/10/30 23:34:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3698[15/10/30 23:34:11]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3757[15/10/30 23:34:12]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4861[15/10/30 23:34:13]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+14862[15/10/30 23:34:23]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+40484[15/10/30 23:34:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://mp.weixin.qq.com: The target server failed to respond
+40484[15/10/30 23:34:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - Retrying request to {}->http://mp.weixin.qq.com
+40614[15/10/30 23:34:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://mp.weixin.qq.com: The target server failed to respond
+40615[15/10/30 23:34:48]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - Retrying request to {}->http://mp.weixin.qq.com
+40759[15/10/30 23:34:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://mp.weixin.qq.com: The target server failed to respond
+40760[15/10/30 23:34:49]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.a.h.impl.client.DefaultHttpClient - Retrying request to {}->http://mp.weixin.qq.com
+625 [15/10/30 23:44:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 23:44:41 CST 2015]; root of context hierarchy
+720 [15/10/30 23:44:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1439[15/10/30 23:44:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1440[15/10/30 23:44:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1450[15/10/30 23:44:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2208[15/10/30 23:44:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2221[15/10/30 23:44:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+2229[15/10/30 23:44:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2231[15/10/30 23:44:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+4302[15/10/30 23:44:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+4643[15/10/30 23:44:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+4666[15/10/30 23:44:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+4813[15/10/30 23:44:45]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+6668[15/10/30 23:44:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+12909[15/10/30 23:44:53]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+544 [15/10/30 23:46:34]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 23:46:34 CST 2015]; root of context hierarchy
+600 [15/10/30 23:46:34]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1085[15/10/30 23:46:34]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1086[15/10/30 23:46:34]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1096[15/10/30 23:46:34]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1560[15/10/30 23:46:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1569[15/10/30 23:46:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1571[15/10/30 23:46:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1573[15/10/30 23:46:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3146[15/10/30 23:46:36]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3308[15/10/30 23:46:37]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3314[15/10/30 23:46:37]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3372[15/10/30 23:46:37]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4338[15/10/30 23:46:38]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+12251[15/10/30 23:46:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=
+567 [15/10/30 23:50:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7334aada: startup date [Fri Oct 30 23:50:30 CST 2015]; root of context hierarchy
+637 [15/10/30 23:50:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1415[15/10/30 23:50:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1416[15/10/30 23:50:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1436[15/10/30 23:50:30]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1955[15/10/30 23:50:31]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1968[15/10/30 23:50:31]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1971[15/10/30 23:50:31]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1972[15/10/30 23:50:31]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+3047[15/10/30 23:50:32]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+3206[15/10/30 23:50:32]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+3212[15/10/30 23:50:32]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+3280[15/10/30 23:50:32]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+4717[15/10/30 23:50:34]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+5720[15/10/30 23:50:35]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  c.h.s.p.SouGouOfficialAccountJob - 搜索：交通91.8
+;cookie:IPLOC=CN4403; SUID=3F419B0E1220920A0000000055FC038A; SUV=00027B620E9B413F55FC038CA2BCA485; _ga=GA1.2.1065184354.1442579354; ssuid=2265913808; ABTEST=0|1444826365|v1; weixinIndexVisited=1; SNUID=BB92C9BFC6C2E4EBB99CBE93C75AC7EB; sct=11; wapsogou_qq_nickname=

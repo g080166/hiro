@@ -1,0 +1,3 @@
+
+19166[15/10/13 11:10:13]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  WARN  o.h.hql.internal.ast.HqlSqlWalker - [DEPRECATION] Encountered positional parameter near line 1, column 83 in HQL: [from com.hiro.spider.data.entity.PublicNumber as model where  model.weixinAccount=?].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
