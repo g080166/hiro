@@ -1,4 +1,4 @@
-package com.hiro.spider.core;
+package com.hiro.spider.core.httpclient;
 
 public class UplaodFIleReturnInfo {
 
