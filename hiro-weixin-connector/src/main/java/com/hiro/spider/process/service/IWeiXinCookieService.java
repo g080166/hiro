@@ -8,7 +8,7 @@ import org.apache.http.client.ClientProtocolException;
 
 public interface IWeiXinCookieService {
 
-	void beginToSyn(String passTikect, String cookie, String sysUrl)
+	void beginToSyn(String passTicket, String cookie, String sysUrl)
 			throws KeyManagementException, ClientProtocolException, NoSuchAlgorithmException, IOException;
 
 }

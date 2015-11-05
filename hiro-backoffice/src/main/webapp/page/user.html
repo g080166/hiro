@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>用户列表</title>
+<script type="text/javascript" src="jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="user.js"></script>
+</head>
+<body>
+	<span style="font-weight: bolder;margin: 10px">绑定用户</span><br/>
+	<div style="margin: 10px">用户名：<input type="text" id="username"></div>
+	<div style="margin: 10px">绑定的Cookie:</div>
+	<textarea id="cookie" rows="30" cols="80"></textarea>
+	<div style="margin: 10px">绑定的同步链接:</div>
+	<textarea id="sysUrl" rows="30" cols="80"></textarea>
+	<input type="button" onclick="addUser()" value="提交">
+</body>
+</html>

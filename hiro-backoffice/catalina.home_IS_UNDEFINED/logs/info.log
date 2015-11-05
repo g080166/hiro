@@ -1,0 +1,73 @@
+
+285 [15/11/05 12:06:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization started
+489 [15/11/05 12:06:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.w.c.s.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Nov 05 12:06:41 CST 2015]; root of context hierarchy
+555 [15/11/05 12:06:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+1109[15/11/05 12:06:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+1111[15/11/05 12:06:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+1119[15/11/05 12:06:41]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+1541[15/11/05 12:06:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+1550[15/11/05 12:06:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.11.Final}
+1553[15/11/05 12:06:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+1555[15/11/05 12:06:42]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+5886[15/11/05 12:06:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  WARN  o.h.e.j.internal.JdbcServicesImpl - HHH000342: Could not obtain connection to query metadata : Cannot create PoolableConnectionFactory (Could not create connection to database server. Attempted reconnect 3 times. Giving up.)
+5912[15/11/05 12:06:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+5925[15/11/05 12:06:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.j.internal.LobCreatorBuilder - HHH000422: Disabling contextual LOB creation as connection was null
+6089[15/11/05 12:06:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+6095[15/11/05 12:06:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+6153[15/11/05 12:06:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.0.0.Final
+6838[15/11/05 12:06:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+6855[15/11/05 12:06:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 6501 ms
+6972[15/11/05 12:06:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'springMVC': initialization started
+6974[15/11/05 12:06:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.w.c.s.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'springMVC-servlet': startup date [Thu Nov 05 12:06:47 CST 2015]; parent: Root WebApplicationContext
+6976[15/11/05 12:06:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+7020[15/11/05 12:06:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [applicationContext.xml]
+7198[15/11/05 12:06:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\config.properties]
+7199[15/11/05 12:06:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.c.s.PropertySourcesPlaceholderConfigurer - Loading properties file from file [E:\1-WorkSpace\3-DevelopWorkSpace\MyWebWorkSpace\project\hiro-spider-config\target\classes\test\log4j.properties]
+7203[15/11/05 12:06:47]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+11249[15/11/05 12:06:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  WARN  o.h.e.j.internal.JdbcServicesImpl - HHH000342: Could not obtain connection to query metadata : Cannot create PoolableConnectionFactory (Could not create connection to database server. Attempted reconnect 3 times. Giving up.)
+11249[15/11/05 12:06:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: com.hiro.spider.core.util.MySQL5Dialect
+11250[15/11/05 12:06:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.j.internal.LobCreatorBuilder - HHH000422: Disabling contextual LOB creation as connection was null
+11256[15/11/05 12:06:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+11256[15/11/05 12:06:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+11296[15/11/05 12:06:52]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService  'taskExecutor'
+11443[15/11/05 12:06:52]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/account//addAccount],methods=[],params=[],headers=[],consumes=[],produces=[application/json;charset=UTF-8],custom=[]}" onto public com.hiro.spider.core.BaseResponse<java.lang.String> com.hiro.spider.contoller.AccountController.addAccount(javax.servlet.http.HttpServletRequest)
+11934[15/11/05 12:06:52]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springMVC-servlet': startup date [Thu Nov 05 12:06:47 CST 2015]; parent: Root WebApplicationContext
+11982[15/11/05 12:06:52]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springMVC-servlet': startup date [Thu Nov 05 12:06:47 CST 2015]; parent: Root WebApplicationContext
+12134[15/11/05 12:06:52]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+12162[15/11/05 12:06:52]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  INFO  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'springMVC': initialization completed in 5190 ms

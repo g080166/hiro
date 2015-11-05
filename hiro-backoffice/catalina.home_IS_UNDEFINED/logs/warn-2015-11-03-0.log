@@ -1,0 +1,9 @@
+
+5548[15/11/03 22:55:26]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  WARN  o.h.e.j.internal.JdbcServicesImpl - HHH000342: Could not obtain connection to query metadata : Cannot create PoolableConnectionFactory (Could not create connection to database server. Attempted reconnect 3 times. Giving up.)
+10781[15/11/03 22:55:31]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  WARN  o.h.e.j.internal.JdbcServicesImpl - HHH000342: Could not obtain connection to query metadata : Cannot create PoolableConnectionFactory (Could not create connection to database server. Attempted reconnect 3 times. Giving up.)
+5574[15/11/03 22:56:22]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  WARN  o.h.e.j.internal.JdbcServicesImpl - HHH000342: Could not obtain connection to query metadata : Cannot create PoolableConnectionFactory (Could not create connection to database server. Attempted reconnect 3 times. Giving up.)
+10854[15/11/03 22:56:27]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  WARN  o.h.e.j.internal.JdbcServicesImpl - HHH000342: Could not obtain connection to query metadata : Cannot create PoolableConnectionFactory (Could not create connection to database server. Attempted reconnect 3 times. Giving up.)

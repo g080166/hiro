@@ -1,0 +1,5 @@
+
+5886[15/11/05 12:06:46]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  WARN  o.h.e.j.internal.JdbcServicesImpl - HHH000342: Could not obtain connection to query metadata : Cannot create PoolableConnectionFactory (Could not create connection to database server. Attempted reconnect 3 times. Giving up.)
+11249[15/11/05 12:06:51]==>[ip=, forwardedFor=,ref=, ua=, sid=]
+  WARN  o.h.e.j.internal.JdbcServicesImpl - HHH000342: Could not obtain connection to query metadata : Cannot create PoolableConnectionFactory (Could not create connection to database server. Attempted reconnect 3 times. Giving up.)
